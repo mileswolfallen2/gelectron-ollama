@@ -46,7 +46,6 @@ web_modules/
 .env.*
 
 # Build output
-dist
 
 # parcel-bundler cache
 .cache
